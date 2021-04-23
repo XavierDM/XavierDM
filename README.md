@@ -1,7 +1,6 @@
 <h1>Xavier De Moor, trainmanager SNCB</h1> 
 
 <h3><u>Who am I?</u></h3>
-<img src="C:\Users\x_man\OneDrive\Documenten\Becode\MD\Who_Am_I\XavierDM.jpg" alt="XavierDM">
 
 ~~I am a 33 year old Belgian male~~ <br>
 I'm a married, proud father of a daughter 👧🏻 of 2 years old. Me and my wife own two chocolate labradors🐕. I'm a Simpsons-fan, so when someone of BeCode compared me to Bart Simpson, I was flattered😎. Most of the time I'm the one giving "stupid" comments, but when it's time to be serious and start working I'm present.
