@@ -1,4 +1,4 @@
-<h1>Xavier De Moor, Junior Backend Developer Traine</h1> 
+<h1>Xavier De Moor, Junior Backend Developer Trainee</h1> 
 
 <h3><u>Who am I?</u></h3>
 
