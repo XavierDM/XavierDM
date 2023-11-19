@@ -13,7 +13,7 @@ Develop my skills in backend coding further, as well getting the grasps more of 
 I have a fear of failing. I know that I'm capable of a lot, but I tend to freeze when I have to present something or when I have a setback (though setbacks are the best way to learn from my mistakes).
 
 #### Looking forward to
-THe first objective I'm looking forward to, is learning how to implement everything I learned in real life scenarios and how to develop further as a developer.
+The first objective I'm looking forward to, is learning how to implement everything I learned in real life scenarios and how to develop further as a developer.
 
 #### Valued teamwork skills
 1. <em>Able to speak your mind</em>
