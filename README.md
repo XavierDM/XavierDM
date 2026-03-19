@@ -1,26 +1,19 @@
-<h1>Xavier De Moor, Citizen Developer</h1> 
+## Xavier De Moor — Power Platform Developer & Hybrid Developer in progress
 
-<h3><u>Who am I?</u></h3>
+Power Platform developer at NMBS/SNCB (Belgian Rail), building toward a hybrid 
+developer role combining traditional backend development with Power Platform expertise.
 
-Team work is something I value very highly, by this I mean to be able to speak your mind and give/receive feedback from the different team members. 
-One of my core qualities is that I am very persistant in everything I start. I also have a high self-discipline to focus on what has to be done.
-In stress situations I am able to keep a cool head and I'll also try to help others where possible. If I don't know the solution, I'll go on a hunt with them to find the solution.
+Currently working through a 30-week self-study curriculum covering TypeScript, C#/.NET, 
+NestJS, ASP.NET Core, n8n, Windmill, and Power Platform — with the goal of bridging 
+the gap between pro-code and low-code in the Belgian enterprise market.
 
-#### Becode Objective
-Develop my skills in backend coding further, as well getting the grasps more of the programming lannguage.
+**What I'm building:**
+- REST APIs in TypeScript (NestJS) and C# (ASP.NET Core)
+- Automation workflows in n8n and Windmill
+- Power Apps extended with custom connectors and PCF components
+- Everything deployed on Azure with CI/CD via GitHub Actions
 
-#### Fears😰
-I have a fear of failing. I know that I'm capable of a lot, but I tend to freeze when I have to present something or when I have a setback (though setbacks are the best way to learn from my mistakes).
+**Background:**
+BeCode graduate · Power Platform daily user · Recovering from 4 years of coding rust 🐢
 
-#### Looking forward to
-The first objective I'm looking forward to, is learning how to implement everything I learned in real life scenarios and how to develop further as a developer.
-
-#### Valued teamwork skills
-1. <em>Able to speak your mind</em>
-2. <b>Respect each other, laugh together and not at eachother</b>
-3. <u>Use each others strenghts and help the others on unfamiliar subjects</u>
-
-### Favorite Gifs
-<p>
-<img src="https://media.giphy.com/media/citBl9yPwnUOs/giphy.gif" alt="Where's the any key?" width="150" height="150">
-</p>
+**Currently:** Week 3 of 30 — TypeScript advanced patterns
